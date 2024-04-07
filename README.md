@@ -1,2 +1,2 @@
 # Hackerrank
-Hackerrank Problem Solving (Java)
+Hackerrank Solved Problems (Java)
